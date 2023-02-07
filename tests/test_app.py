@@ -1,5 +1,5 @@
 import sys
-sys.path.append('network')
+sys.path.append('src')
 from app import index
 
 def test_index():
